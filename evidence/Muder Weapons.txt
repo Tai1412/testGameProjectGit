@@ -1,11 +1,8 @@
 Knife
 Gun
 Marching Band
-<<<<<<< HEAD
 Candle Stick
-=======
-
 eyeLash
 Vitamins
 Blackhole
->>>>>>> moreWeapons
+
